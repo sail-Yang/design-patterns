@@ -1,4 +1,4 @@
-package com.sailyang.factory;
+package com.sailyang.factory_method;
 
 import com.sailyang.employee.Employee;
 import com.sailyang.employee.FrontendEngineer;
