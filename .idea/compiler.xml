@@ -9,6 +9,7 @@
         <module name="factory-pattern" />
         <module name="template-method" />
         <module name="decorator-pattern" />
+        <module name="proxy-pattern" />
       </profile>
     </annotationProcessing>
   </component>
